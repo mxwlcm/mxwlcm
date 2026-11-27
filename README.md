@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm mxwlcm 👋
 
-<!--
-**mxwlcm/mxwlcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is where I keep notes on projects, tools, and things I learn along the way.
 
-Here are some ideas to get you started:
+- I like turning everyday problems into reusable small tools.
+- I want to keep my code clear, stable, and easy to maintain.
+- If any of my projects help you, feel free to leave a star. ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![mxwlcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxwlcm&show_icons=true&count_private=true&theme=default)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxwlcm&layout=compact&theme=default)
